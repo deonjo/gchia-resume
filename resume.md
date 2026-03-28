@@ -4,7 +4,6 @@ header:
   - text: <span class="iconify" data-icon="tabler:mail"></span> gideon.chia@gmail.com
     link: mailto:gideon.chia@gmail.com
   - text: <span class="iconify" data-icon="tabler:phone"></span> 510 371 4433
-    newLine: true
 ---
 
 ## Education
@@ -32,7 +31,7 @@ Senior Software Engineer, Learning
 
 - Modernized CYMBII (course you might be interested in) into a swipeable slideshow and migrating to the new recommendation system Galapagos, contributing to about 2.5% WSL SWI ramp impact.
 - Mentored Eli over 3 years as he transitioned from video editor to full-time software engineer at LinkedIn, with regular support on tools, Git workflows, and engineering career development.
-- Linked users certificates to completed courses on their profile, resulting in +0.5M in bookings.
+- Linked users certificates to completed courses on their profile, resulting in +$0.5M in bookings.
 - Implemented a secure automatic credit card migration from Lynda to LinkedIn Learning, leading to an 86% lift in weekly migrations.
 - Refactored an email sending flow into its own microservice, improving stability of a mission-critical course purchasing service and saving weekly engineering time.
 
@@ -67,3 +66,11 @@ Software Engineer in Test
 - Tested and released multiple Splunk applications: Enterprise Security, DB Connect, HadoopOps, and more
 - Engineered an automatic test generator to parse, analyze, and test 50+ technology add-ons
 - This technology enabled Splunk's Shanghai team to release 1 TA a week instead of 1 TA a month
+
+## Skills
+
+**Backend:** Java, Python, C++, SPL, Kusto, SQL, Kafka, Venice
+
+**Technologies:** Claude Code, Cursor, Flutter, Firebase, Vercel
+
+**Fun:** Piano, Basketball, Swimming
